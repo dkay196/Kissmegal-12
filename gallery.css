@@ -1,0 +1,40 @@
+body{
+    background-image: url("you.JPG");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.side{
+    text-decoration: underline;
+    margin-left: 600px;
+    color: red;
+}
+.pop{
+    height: 200px;
+    width: 170px;
+}
+.vr{
+    height: 200px;
+    width: 170px;
+    margin-left: 25px; 
+}
+.ab{
+    height: 200px;
+    width: 170px;
+    margin-left: 25px;
+}
+.ad{
+    height: 200px;
+    width: 170px;
+    margin-left: 25px; 
+}
+.sing{
+    height: 200px;
+    width: 170px;
+}
+.wa{
+    margin-left: 1000px;
+    color: red;
+}

@@ -1,0 +1,29 @@
+body{
+    background-image: url("dkay.JPG");
+    width: 100%;
+    height:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.man{
+    color: greenyellow;
+    margin-left: 100px;
+}
+.who{
+    width: 160px;
+    height: 170px;
+    margin-bottom:120px;
+    margin-left: 120px;
+    border-radius: 100px;
+}
+.was{
+    font-size: 20px;
+    margin-left: 50px;
+    color: rgb(224, 15, 15);
+    
+}
+.da{
+    margin-left: 1000px;
+    color: red;
+}

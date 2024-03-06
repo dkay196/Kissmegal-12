@@ -1,0 +1,30 @@
+body{
+    background-image: url("dkay.JPG");
+    width: 100%;
+    height:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.van{
+    margin-left: 150px;
+    text-decoration: underline;
+    
+}
+.she{
+    font-size: 25px;
+    color: red;
+    margin-left: 30px;
+}
+.frog{
+    width: 150px;
+    height:170px ;
+}
+.gang{
+    width: 150px;
+    height: 150px;
+}
+.get{
+    margin-left: 1000px;
+    color: red;
+}
